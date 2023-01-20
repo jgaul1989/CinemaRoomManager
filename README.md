@@ -1,5 +1,12 @@
 <h1> Simple Cinema Room Manager Program </h1>
 
+<p> Basic program to simulate managing a cinema room. 
+
+Program Example: 
+</p>
+
+<br>
+
 Enter the number of rows:
 > 6
 
